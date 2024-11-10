@@ -16,7 +16,7 @@
 		"preview:lunaria": "lunaria preview"
 	},
 	"dependencies": {
-		"@kobalte/core": "^0.12.6",
+		"@kobalte/core": "^0.13.7",
 		"@lunariajs/core": "^0.0.31",
 		"@orama/searchbox": "1.0.0-rc42",
 		"@oramacloud/client": "^1.2.2",
