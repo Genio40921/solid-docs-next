@@ -17,7 +17,7 @@
 	},
 	"dependencies": {
 		"@kobalte/core": "^0.12.6",
-		"@lunariajs/core": "^0.0.31",
+		"@lunariajs/core": "^0.1.1",
 		"@orama/searchbox": "1.0.0-rc42",
 		"@oramacloud/client": "^1.2.2",
 		"@solidjs/meta": "^0.29.4",
