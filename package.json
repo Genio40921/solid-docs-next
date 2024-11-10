@@ -21,7 +21,7 @@
 		"@orama/searchbox": "1.0.0-rc42",
 		"@oramacloud/client": "^1.2.2",
 		"@solidjs/meta": "^0.29.4",
-		"@solidjs/router": "^0.13.3",
+		"@solidjs/router": "^0.14.10",
 		"@solidjs/start": "^1.0.0",
 		"@vinxi/plugin-mdx": "^3.7.1",
 		"dotenv": "^16.4.5",
