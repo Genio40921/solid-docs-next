@@ -22,7 +22,7 @@
 		"@oramacloud/client": "^1.2.2",
 		"@solidjs/meta": "^0.29.4",
 		"@solidjs/router": "^0.13.3",
-		"@solidjs/start": "^1.0.0",
+		"@solidjs/start": "^1.0.7",
 		"@vinxi/plugin-mdx": "^3.7.1",
 		"dotenv": "^16.4.5",
 		"glob": "^10.3.10",
@@ -35,7 +35,7 @@
 		"shiki": "^1.1.7",
 		"sitemap": "^7.1.1",
 		"solid-heroicons": "^3.2.4",
-		"solid-js": "^1.8.17",
+		"solid-js": "^1.9.4",
 		"solid-mdx": "^0.0.7",
 		"vinxi": "^0.3.11",
 		"zod": "^3.22.4"
